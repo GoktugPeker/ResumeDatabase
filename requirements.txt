@@ -1,0 +1,10 @@
+streamlit
+sqlite3
+langchain_ollama
+PyPDF2
+langchain_ollama
+langchain.prompts
+langchain_corelangchain_communitydocxre
+io
+hashlib
+datetime
